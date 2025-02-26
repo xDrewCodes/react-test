@@ -1,0 +1,12 @@
+
+.counter__wrapper {
+    display: flex;
+}
+
+button {
+    padding: 24px;
+    align-content: center;
+    background-color: white;
+    font-size: 20px;
+    margin: 0 24px;
+}

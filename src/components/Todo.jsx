@@ -1,11 +1,9 @@
 
-
 function Todo({ title, para }) {
 
     function deleteTodo() {
-        console.log("deleted")
+        console.log("deleted", title)
     }
-
 
     return (
         <div>

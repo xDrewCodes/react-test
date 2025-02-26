@@ -1,8 +1,8 @@
 
-function Title() {
+function Title({ content }) {
     return (
 
-        <h1>Todo List</h1>
+        <h1>{ content }</h1>
 
     )
 }
